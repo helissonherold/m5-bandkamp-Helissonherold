@@ -1,4 +1,4 @@
-from rest_framework.views import APIView, Request, Response  # status,
+from rest_framework.views import APIView, Request, Response
 from .mixins import (
     CreateModelMixin,
     ListModelMixin,

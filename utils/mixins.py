@@ -1,5 +1,5 @@
 from django.shortcuts import get_object_or_404
-from rest_framework.views import APIView, status, Request, Response
+from rest_framework.views import status, Request, Response
 
 
 class ListModelMixin:
